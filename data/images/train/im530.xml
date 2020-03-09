@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labellingimg</folder>
+	<filename>im530.jpg</filename>
+	<path>D:/PROJECT/main/DATASET/labellingimg/im530.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>118</ymin>
+			<xmax>286</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
